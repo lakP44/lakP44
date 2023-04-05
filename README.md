@@ -5,7 +5,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=180&color=282A36&&fontAlignY=35&section=header&text=lakP44's%20Github&fontColor=ffffff&fontSize=70&&animation=fadeIn)
 
 <!--방문자-->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FlakP44&count_bg=%23DD6387&title_bg=%23282A36&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.sh/github.com/lakP44/lakP44.svg?view=today-total&style=for-the-badge&color=dd6387)](https://hits.sh/github.com/lakP44/lakP44/)
   
 # About Me
 
