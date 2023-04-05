@@ -25,7 +25,7 @@
   
 ### Other Stacks
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
-<img src="https://img.shields.io/badge/PowerPoint&#160;(Click&#160; it!)-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white">
+<a href="https://github.com/lakP44/coding-total/tree/main/PowerPoint_Game" target="_blank"><img src="https://img.shields.io/badge/PowerPoint&#160;(Click&#160; me!)-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">
   
 </br>
