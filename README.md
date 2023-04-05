@@ -17,8 +17,7 @@
 &nbsp;
 &nbsp;
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/rock-pre-h?color=ff3900&label=rock-pre-h%20download%20counts&style=for-the-badge)
-&nbsp;
-&nbsp;
+
 ![GitHub repo size](https://img.shields.io/github/repo-size/lakP44/coding-total?color=2C5F30&label=coding-total%20size&style=for-the-badge)
 &nbsp;
 &nbsp;
