@@ -4,7 +4,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&height=180&color=282A36&&fontAlignY=35&section=header&text=lakP44's%20Github&fontColor=ffffff&fontSize=70&&animation=fadeIn)
 
-# Skills 👨🏻‍💻
+![header](https://capsule-render.vercel.app/api?type=soft&height=50&color=282A36&&fontAlignY=35&section=header&text=lakP44's%20Github&fontColor=ffffff&fontSize=30&&animation=fadeIn)
 
 ### AI Stacks
 
