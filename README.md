@@ -4,7 +4,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&height=180&color=282A36&&fontAlignY=35&section=header&text=lakP44's%20Github&fontColor=ffffff&fontSize=70&&animation=fadeIn)
 
-# About&#160; Me
+# About Me
 </br>
 
 |It's|About|Me!|
@@ -16,7 +16,7 @@
   
   
   
-# Skills&#160; 👨🏻‍💻
+# Skills 👨🏻‍💻
 
 </br>
   
