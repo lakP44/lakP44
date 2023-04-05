@@ -11,7 +11,6 @@
 &nbsp;
 &nbsp;
 <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakP44&theme=dracula&langs_count=8&layout=compact&border_color=00000000" /></div>
-</div>
 
 </br>
 </br>
