@@ -11,6 +11,8 @@
 # About Me
 </br>
 
+</div>
+
 ```python
 import pandas as pd
 df = pd.DataFrame({ "It's" : ["Email", "Discord", "Blog"],
@@ -19,7 +21,7 @@ df = pd.DataFrame({ "It's" : ["Email", "Discord", "Blog"],
 
 display(df)
 ```
-
+<div align="center">
 
 |It's|About|Me!|
 |:------:|:---:|:---:|
