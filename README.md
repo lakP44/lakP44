@@ -17,8 +17,6 @@
   
   
 # Skills 👨🏻‍💻
-
-</br>
   
 ### AI Stacks
 
