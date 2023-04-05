@@ -8,8 +8,6 @@
 [![Hits](https://hits.sh/github.com/lakP44/lakP44.svg?view=today-total&style=for-the-badge&label=%EB%B0%A9%EB%AC%B8%EC%9E%90&color=dd6387)](https://hits.sh/github.com/lakP44/lakP44/)
   
 # About Me
-
-</div>
   
 </br>
 </br>
