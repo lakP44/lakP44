@@ -6,7 +6,7 @@
                                                                                                                                             
                                                                                                                                             
 
-<span style="color: red">test</span>
+<span style="color: #2D3748">test</span>
 
 <div class='container'>
 <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=lakP44&show_icons=true&theme=blue-green" />
