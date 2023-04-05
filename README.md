@@ -9,9 +9,9 @@
 
 |It's|About|Me!|
 |:------:|:---:|:---:|
-|Email|:|laklak5000@gmail.com|
-|Discord|:|P444#7196|
-|테스트1|테스트2|테스트3|
+|**Email**|:|laklak5000@gmail.com|
+|**Discord**|:|P444#7196|
+|**Blog**|:|[P4ython](https://p444.tistory.com/)|
   
   
   
