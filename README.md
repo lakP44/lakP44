@@ -7,7 +7,7 @@
 ## Skills 👨🏻‍💻
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/scikit\*-learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+<img src="https://img.shields.io/badge/scikit\-learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
   
 </br>
 
