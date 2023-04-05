@@ -10,7 +10,7 @@
 </br>
 
 <!--방문자-->
-[![Hits](https://hits.sh/github.com/lakP44/lakP44.svg?view=today-total&style=for-the-badge&label=%EB%B0%A9%EB%AC%B8%EC%9E%90&color=dd6387)](https://hits.sh/github.com/lakP44/lakP44/)
+[![Hits](https://hits.sh/github.com/lakP44/lakP44.svg?view=today-total&style=for-the-badge&label=%ED%94%84%EB%A1%9C%ED%95%84%20%EB%B0%A9%EB%AC%B8%EC%9E%90&color=dd6387)](https://hits.sh/github.com/lakP44/lakP44/)
 &nbsp;
 &nbsp;
 ![GitHub language count](https://img.shields.io/github/languages/count/lakP44/coding-total?label=coding-total%20%EC%96%B8%EC%96%B4%20%EC%88%98&style=for-the-badge)
