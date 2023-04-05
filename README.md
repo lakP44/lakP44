@@ -12,7 +12,6 @@
 </br>
 
 </div>
-
 ```python
 import pandas as pd
 df = pd.DataFrame({ "It's" : ["Email", "Discord", "Blog"],
