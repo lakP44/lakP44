@@ -15,7 +15,7 @@
 
 |It's|About|Me!|
 |:------:|:---:|:---:|
-|📧 <span style="background-color: #000000;">Email : laklak5000@gmail.com</span> |🎧 Discord : P444#7196|[💻 P4ython](https://p444.tistory.com/)|
+|📧 Email : laklak5000@gmail.com |🎧 Discord : P444#7196|[💻 P4ython](https://p444.tistory.com/)|
 |:|:|:|
 |:|:|:|
 
