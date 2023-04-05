@@ -7,7 +7,7 @@
 # Skills 👨🏻‍💻
 
 
-<span style="color: black"> 
+<span style="color: yellow"> 
   
 ### AI stacks
 
