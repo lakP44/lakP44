@@ -57,7 +57,7 @@
 </br>
 <!--백준 티어-->
 
-# Baekjoon&#160; Tier
+# Baekjoon Tier
 
 </br>
 
