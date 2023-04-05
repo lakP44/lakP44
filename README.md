@@ -13,7 +13,7 @@
 |**Discord**|:|P444#7196|
 |**Blog**|:|[P4ython](https://p444.tistory.com/)|
   
-  
+</br>
   
   
 # Skills 👨🏻‍💻
