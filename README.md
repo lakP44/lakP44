@@ -12,6 +12,12 @@
   
 # About Me 🐪
 📧 Email : laklak5000@gmail.com           🎧 Discord : P444#7196
+
+|It's|About|Me!|
+|:------:|:---:|:---:|
+|📧 Email : laklak5000@gmail.com |🎧 Discord : P444#7196|[💻 P4ython](https://p444.tistory.com/)|
+|:|:|:|
+|:|:|:|
   
 # Skills 👨🏻‍💻
   
