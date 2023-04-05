@@ -17,7 +17,7 @@
 </div>
 </div>
 
-[![Solved.ac/프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={lak5000})](https://solved.ac/{handle})
+[![Solved.ac/프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={lak5000})](https://solved.ac/{lak5000})
 <!--**lakP44/lakP44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
