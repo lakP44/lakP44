@@ -19,7 +19,7 @@ display(df)
 ```
 <div align="center">
 
-|It's|About|Me|  |Welcome|To|lakP44's|Github|Profile|
+|It's|About|Me.|  |Welcome|To|lakP44's|Github|Profile|
 |:------:|:---:|:---:|:------:|:---:|:---:|:------:|:---:|:---:|
 |**Email**|:|laklak5000@gmail.com|||||||
 |**Discord**|:|P444#7196|||||||
