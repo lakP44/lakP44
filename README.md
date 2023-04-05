@@ -13,6 +13,9 @@
 &nbsp;
 &nbsp;
 ![GitHub language count](https://img.shields.io/github/languages/count/lakP44/coding-total?label=%EC%96%B8%EC%96%B4%20%EC%88%98&style=for-the-badge)
+&nbsp;
+&nbsp;
+![PyPI - Downloads](https://img.shields.io/pypi/dm/rock-pre-h?color=%23FFC13A&label=rock-pre-h&style=for-the-badge)
   
 # About Me 🐪
 
