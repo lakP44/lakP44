@@ -11,6 +11,16 @@
 # About Me
 </br>
 
+```python
+import pandas as pd
+df = pd.DataFrame({ "It's" : ["Email", "Discord", "Blog"],
+"About" : [":"] * 3,
+"Me!" : ["laklak5000@gmail.com", "P444#7196", "[P4ython](https://p444.tistory.com/)"
+
+display(df)
+```
+
+
 |It's|About|Me!|
 |:------:|:---:|:---:|
 |**Email**|:|laklak5000@gmail.com|
