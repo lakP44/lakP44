@@ -1,8 +1,7 @@
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=180&color=282A36&&fontAlignY=35&section=header&text=lakP44's%20Github&fontColor=ffffff&fontSize=70&&animation=fadeIn)
-  
-</br>&nbsp; _&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; __&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; __&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; __</br>|&nbsp; |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /&nbsp; /__&nbsp; &nbsp; /&nbsp; /________&nbsp; &nbsp; ____&nbsp; ___&nbsp; &nbsp; ___&nbsp; &nbsp; /&nbsp; /</br>|&nbsp; |&nbsp; /|&nbsp; /&nbsp; /&nbsp; _&nbsp; \/&nbsp; /&nbsp; ___/&nbsp; __&nbsp; \/&nbsp; __&nbsp; `__&nbsp; \/&nbsp; _&nbsp; \/&nbsp; /&nbsp; </br>|&nbsp; |/&nbsp; |/&nbsp; /&nbsp; &nbsp; __/&nbsp; /&nbsp; /__/&nbsp; /_/&nbsp; /&nbsp; /&nbsp; /&nbsp; /&nbsp; /&nbsp; /&nbsp; &nbsp; __/_/&nbsp; &nbsp; </br>|__/|__/\___/_/\___/\____/_/&nbsp; /_/&nbsp; /_/\___(_)&nbsp; &nbsp; &nbsp; </br></br>
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FlakP44&count_bg=%23DD6387&title_bg=%23282A36&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90&edge_flat=false)](https://hits.seeyoufarm.com)
 
