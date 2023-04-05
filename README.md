@@ -5,7 +5,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=180&color=282A36&&fontAlignY=35&section=header&text=lakP44's%20Github&fontColor=ffffff&fontSize=70&&animation=fadeIn)
 
 # Skills 👨🏻‍💻
-  
+
+---
 ### AI Stacks
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
