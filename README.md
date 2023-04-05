@@ -11,6 +11,7 @@
 </br>
   
 # About Me 🐪
+📧 Email : laklak5000@gmail.com           🎧 Discord : P444#7196
   
 # Skills 👨🏻‍💻
   
