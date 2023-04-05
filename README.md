@@ -1,6 +1,8 @@
-<div style="text-align: center; display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=lakP44&show_icons=true&theme=radical" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakP44&theme=radical&layout=compact" />
+<div class='container'>
+<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=lakP44&show_icons=true&theme=blue-green" />
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakP44&theme=blue-green&langs_count=8&layout=compact" /></div>
 </div>
 
 <!--**lakP44/lakP44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
