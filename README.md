@@ -19,13 +19,17 @@
 &nbsp;
 &nbsp;
 ![GitHub repo size](https://img.shields.io/github/repo-size/lakP44/coding-total?color=2C5F30&label=coding-total%20size&style=for-the-badge)
-  
+
+</br>
+
 # About Me 🐪
 
 |📧 Email : laklak5000@gmail.com |🎧 Discord : P444#7196|💻 Blog : [P4ython](https://p444.tistory.com/)|
 |:---:|:---:|:---:|
 |:|:|:|
 |:|:|:|
+
+</br>
 
 # Skills 👨🏻‍💻
   
