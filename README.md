@@ -14,11 +14,7 @@
 
 ```python
 import pandas as pd
-df = pd.DataFrame({ "It's" : ["Email", "Discord", "Blog"],
-"About" : [":"] * 3,
-"Me!" : ["laklak5000@gmail.com", "P444#7196", "[P4ython](https://p444.tistory.com/)"]
-})
-
+df = pd.DataFrame({ "It's" : ["Email", "Discord", "Blog"], "About" : [":"] * 3, "Me!" : ["laklak5000@gmail.com", "P444#7196", "[P4ython](https://p444.tistory.com/)"]})
 display(df)
 ```
 <div align="center">
