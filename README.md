@@ -6,7 +6,7 @@
 
 # Skills 👨🏻‍💻
 
-### <span style="color: #50bcdf">AI stacks</span>
+### <span style="color: #00ffff">AI stacks</span>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
