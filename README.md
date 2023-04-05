@@ -1,10 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=
-  _      __    __                     ______       __     __    ___  ____ _____        ___           ____ __      __
- | | /| / /__ / /______  __ _  ___   /_  __/__    / /__ _/ /__ / _ \/ / // / ( )___   / _ \_______  / _(_) /__   / /
- | |/ |/ / -_) / __/ _ \/  ' \/ -_)   / / / _ \  / / _ `/  '_// ___/_  _/_  _//(_-<  / ___/ __/ _ \/ _/ / / -_) /_/ 
- |__/|__/\__/_/\__/\___/_/_/_/\__/   /_/  \___/ /_/\_,_/_/\_\/_/    /_/  /_/  /___/ /_/  /_/  \___/_//_/_/\__/ (_)  
-                                                                                                                    
-&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
 
 <div class='container'>
