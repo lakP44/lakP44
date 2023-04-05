@@ -40,7 +40,7 @@
 </br>
 </br>
   
-# Github Stats
+# Github Stats 📊
 
 <!--github analitics-->
 
@@ -55,7 +55,7 @@
 </br>
 <!--백준 티어-->
 
-# Baekjoon Tier
+# Baekjoon Tier 🥉
 
 </br>
 
