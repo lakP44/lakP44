@@ -25,7 +25,7 @@
   
 ### Other Stacks
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
-<img src="https://img.shields.io/badge/PowerPoint&#160;</br>(To&#160;make&#160; a&#160; game)-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white">
+<img src="https://img.shields.io/badge/PowerPoint&#160;(Click&#160; it!)-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white">
 <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">
   
 </br>
