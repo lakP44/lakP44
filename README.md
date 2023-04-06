@@ -27,7 +27,6 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/lakP44?color=%23674ea7&label=Github%20Stars&style=for-the-badge)
 
 </br>
-</br>
 
 # About Me 🐪
 
