@@ -27,6 +27,7 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/lakP44?color=%23674ea7&label=Github%20Stars&style=for-the-badge)
 
 </br>
+</br>
 
 # About Me 🐪
 
@@ -37,6 +38,7 @@
 |~~📖 Github Blog~~ : [link](https://lakp44.github.io/)|:|:|
 |:|:|:|
 
+</br>
 </br>
 
 # Skills 👨🏻‍💻
@@ -68,6 +70,7 @@
 ---
   
 </br>
+</br>
   
 # Github Stats 📊
 
@@ -82,6 +85,7 @@
 <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lakP44&theme=dracula&langs_count=8&layout=compact&border_color=00000000" />
 </div>
 
+</br>
 </br>
 </br>
 <!--백준 티어-->
