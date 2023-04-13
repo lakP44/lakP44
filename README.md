@@ -21,7 +21,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/lakP44/coding-total?color=2C5F30&label=coding-total%20size&style=for-the-badge)
 &nbsp;
 &nbsp;
-![GitHub followers](https://img.shields.io/github/followers/lakP44?color=%239da700&label=Github%20Followers&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/lakP44?color=23272a&label=Github%20Followers&style=for-the-badge)
 &nbsp;
 &nbsp;
 ![GitHub User's stars](https://img.shields.io/github/stars/lakP44?color=%23674ea7&label=Github%20Stars&style=for-the-badge)
