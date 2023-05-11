@@ -72,12 +72,10 @@
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
   
-https://github.com/lakP44/Powerpoint_game
-  
 ---
 ### Other Stacks
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
-<a href="https://github.com/lakP44/coding-total/tree/main/PowerPoint_Game" target="_blank"><img src="https://img.shields.io/badge/PowerPoint&#160;(Click%20me!)-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white"></a>
+<a href="https://github.com/lakP44/Powerpoint_game" target="_blank"><img src="https://img.shields.io/badge/PowerPoint&#160;(Click%20me!)-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Autodesk-000000?style=for-the-badge&logo=autodesk&logoColor=white">
 
 ---
