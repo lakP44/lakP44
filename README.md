@@ -28,8 +28,12 @@
 <!--방문자-->
 [![Hits](https://hits.sh/github.com/lakP44/lakP44.svg?view=today-total&style=for-the-badge&label=%ED%94%84%EB%A1%9C%ED%95%84%20%EB%B0%A9%EB%AC%B8%EC%9E%90&color=dd6387)](https://hits.sh/github.com/lakP44/lakP44/)
 &nbsp;
+&nbsp;
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/rock-pre-h?color=ff3900&label=rock-pre-h%20download%20counts&style=for-the-badge)
+&nbsp;
+&nbsp;
 ![GitHub followers](https://img.shields.io/github/followers/lakP44?color=23272a&label=Github%20Followers&style=for-the-badge)
+&nbsp;
 &nbsp;
 ![GitHub User's stars](https://img.shields.io/github/stars/lakP44?color=%23674ea7&label=Github%20Stars&style=for-the-badge)
 
