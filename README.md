@@ -9,6 +9,22 @@
 </br>
 </br>
 
+# Github Stats 📊
+
+</br>
+
+<!--github analitics-->
+
+<div class='container'>
+<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lakP44&show_icons=true&theme=dracula&border_color=00000000" />
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lakP44&theme=dracula&langs_count=8&layout=compact&border_color=00000000" />
+</div>
+
+</br>
+</br>
+
 <!--방문자-->
 [![Hits](https://hits.sh/github.com/lakP44/lakP44.svg?view=today-total&style=for-the-badge&label=%ED%94%84%EB%A1%9C%ED%95%84%20%EB%B0%A9%EB%AC%B8%EC%9E%90&color=dd6387)](https://hits.sh/github.com/lakP44/lakP44/)
 &nbsp;
@@ -71,22 +87,7 @@
   
 </br>
 </br>
-  
-# Github Stats 📊
 
-</br>
-
-<!--github analitics-->
-
-<div class='container'>
-<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lakP44&show_icons=true&theme=dracula&border_color=00000000" />
-&nbsp;
-&nbsp;
-<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lakP44&theme=dracula&langs_count=8&layout=compact&border_color=00000000" />
-</div>
-
-</br>
-</br>
 <!--백준 티어-->
 
 # Baekjoon Tier 🥉
