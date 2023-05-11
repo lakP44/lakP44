@@ -33,7 +33,7 @@
 
 </br>
 
-|📧 Email : laklak5000@gmail.com |🎧 Discord : P444#7196|💻 Blog : [P4ython](https://p444.tistory.com/)|
+|📧 Email : laklak5000@gmail.com |🎧 Discord : P444#7196|~~💻 Blog~~ : [P4ython](https://p444.tistory.com/)|
 |:---:|:---:|:---:|
 |~~📖 Github Blog~~ : [link](https://lakp44.github.io/)|:|:|
 |:|:|:|
