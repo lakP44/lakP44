@@ -52,7 +52,7 @@
 </br>
 </br>
 
-# Skills 👨🏻‍💻
+# Stacks 👨🏻‍💻
   
 ### AI Stacks
 
