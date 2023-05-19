@@ -69,13 +69,12 @@
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 </br>
-<img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
 <a href="https://github.com/lakP44/Powerpoint_game" target="_blank"><img src="https://img.shields.io/badge/PowerPoint&#160;(Click%20me!)-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Autodesk-000000?style=for-the-badge&logo=autodesk&logoColor=white">
 </br>
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
-<img src="https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white">
+<img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
 
 ---
   
