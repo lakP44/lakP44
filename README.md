@@ -78,6 +78,9 @@
 <a href="https://github.com/lakP44/Powerpoint_game" target="_blank"><img src="https://img.shields.io/badge/PowerPoint&#160;(Click%20me!)-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Autodesk-000000?style=for-the-badge&logo=autodesk&logoColor=white">
 
+### OS
+<img src="https://img.shields.io/badge/Python-FCC624?style=for-the-badge&logo=linux&logoColor=white">
+
 ---
   
 </br>
