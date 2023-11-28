@@ -44,6 +44,7 @@
 
 </br>
 
+|:|:|:|
 |📧 Email : laklak5000@gmail.com |🎧 Discord : P444#7196|~~💻 Tistory~~ : [P4ython](https://p444.tistory.com)|
 |💻 Velog : [lak5000](https://velog.io/@lak5000)|🅿️ Portfolio : [link](https://lakp44.github.io/)|:|
 |:|:|:|
