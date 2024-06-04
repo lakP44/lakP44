@@ -4,7 +4,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&height=180&color=282A36&&fontAlignY=35&section=header&text=lakP44's%20Github&fontColor=ffffff&fontSize=70&&animation=fadeIn)
 
-**안녕하세요!😄 Full Stack 개발자를 꿈꾸는 김락형입니다.**
+<!--**안녕하세요!😄 Full Stack 개발자를 꿈꾸는 김락형입니다.**-->
 
 </br>
 </br>
